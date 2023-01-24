@@ -1,0 +1,84 @@
+body{
+    background-color: #eee;
+    font-size: 0;
+    margin: 3% 3%;
+}
+
+.container{
+    background-color:white;
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 3px rgba(0 0 0 0.2);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 50%;  
+}
+header{
+    text-align: center;
+    font-size: 15px;
+}
+
+header img{
+    width: 25%;
+    height: auto;
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+    padding: 0 1%;
+}
+
+.Apie{
+    width: 80%;
+    height: auto;
+}
+
+.Produktai{
+    width: 25%;
+    height: auto;
+}
+.info{
+    background-color:white;
+    font-size: 15px;
+    text-align: center;
+    padding: 1% 0;
+    width: 75%;
+    margin: 0 auto; 
+}
+
+p{
+    text-align: justify;
+    padding: 2% 2%;
+}
+.Prodlist{
+    background-color:white;
+    font-size: 15px;
+    text-align: center;
+    padding: 1% 0;
+    width: 75%;
+    margin: 0 auto; 
+}
+section{
+    font-size: 15px;
+    background-color: white;
+    padding-top: 3%;
+    width: 75%;
+    margin: 0 auto; 
+}
+section img{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 2%;
+}
+
+footer{
+    font-size: 10px;
+    padding-top: 3%;
+    text-align: center;
+    width: 75%;
+    margin: 0 auto; 
+}

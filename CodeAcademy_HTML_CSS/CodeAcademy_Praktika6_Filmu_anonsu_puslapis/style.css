@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    font-size: 0;
+}
+
+.meniu{
+    background-color: rgb(71, 70, 70);
+    font-size: 15px;
+    width: 25%;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h1{
+    padding: 3% 4%;
+}
+
+nav ul li{
+    padding: 3% 4%;
+    color: red;
+}
+
+nav ul ul{
+    list-style-type: circle;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+main{
+    display: inline-block;
+    background-color: red;
+    width: 75%;
+}
+.no-bullets{
+    list-style-type: none;
+}
+
+.heading{
+    background-color: rgb(250, 223, 223);
+    font-size: 15px;
+    width: 75%;
+    color: gray;
+    display: inline-block;
+    vertical-align: top;
+}
+p{
+    display: inline-block;
+}
+.raiting{
+    display: inline-block;
+}
+
+div.filmai{
+    font-size: 15px;
+    background-color: aquamarine;
+    display: block;
+
+}
+iframe{
+    display: inline-block;
+    padding: 2% 3%;
+}
